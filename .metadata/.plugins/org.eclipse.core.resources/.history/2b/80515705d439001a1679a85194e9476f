@@ -1,0 +1,43 @@
+package InterviewPrograms;
+
+public class PatternPrograms {
+
+	
+	
+	
+	
+	
+	
+	public static void Squer(){
+		
+		for(int i='A';i<='E';i++){
+			
+			
+			
+			for(int j='A';j<='E';j++){
+				System.out.print(" ");
+				System.out.print(j);
+				
+			}
+			
+			System.out.println("\n");
+		}
+		
+		
+		
+	}
+	
+	
+	public static void main(String[] args) {
+		
+		
+		Squer();
+	}
+	
+	
+	
+	
+	
+	
+	
+}

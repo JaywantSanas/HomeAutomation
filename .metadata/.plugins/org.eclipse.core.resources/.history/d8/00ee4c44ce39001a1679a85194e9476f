@@ -1,0 +1,29 @@
+package InterviewPrograms;
+
+public class PatternPrograms {
+
+	
+	
+	
+	
+	
+	
+	public static void Squer(){
+		
+		
+	}
+	
+	
+	public static void main(String[] args) {
+		
+		
+		Squer();
+	}
+	
+	
+	
+	
+	
+	
+	
+}

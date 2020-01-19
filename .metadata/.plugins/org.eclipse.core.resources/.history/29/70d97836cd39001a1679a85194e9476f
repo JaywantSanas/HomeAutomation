@@ -1,0 +1,23 @@
+package Inheritance;
+
+public class Parent {
+
+	public void ParentMethodOne(){
+		System.out.println("ParentMethodOne");
+	}
+	
+	
+	public void ParentMethodTwo(){
+		System.out.println("ParentMethodTwo");
+	}
+	
+	public void ChildMethodTwo(){
+		System.out.println("ChildMethodTwo");
+	}
+	
+	
+	
+	
+	
+	
+}

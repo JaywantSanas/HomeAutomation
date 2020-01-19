@@ -1,0 +1,33 @@
+package Inheritance;
+
+public class Child {
+
+	
+
+	public void ChildMethodOne(){
+		System.out.println("ChildMethodOne");
+	}
+	
+	
+	public void ChildMethodTwo(){
+		System.out.println("ChildMethodTwo");
+	}
+	
+	
+	
+	public static void main(String[] args) {
+		
+		
+		Child C1=new Child();
+		
+		
+		ChildMethodOne();
+		
+		
+		
+	}
+	
+	
+	
+	
+}
